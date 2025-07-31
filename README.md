@@ -69,6 +69,22 @@ You can easily customize the landing page by:
 3. Adding or removing sections as needed
 4. Updating animations by modifying Framer Motion properties
 
+## Development
+
+### Scripts
+
+- `npm run dev` - Start the development server
+- `npm run build` - Build for production
+- `npm run preview` - Preview the production build
+- `npm test` - Run tests (placeholder for CI pipeline)
+
+### CI/CD Pipeline
+
+This project includes a GitHub Actions workflow that:
+- Builds the project
+- Runs tests (using the placeholder test script)
+- Deploys the application (when configured)
+
 ## Deployment
 
 To build the project for production:
