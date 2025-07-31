@@ -22,7 +22,7 @@ const App = () => {
             whileTap={{ scale: 0.9 }}
           >
             <img src="/webstorm-icon-logo.svg" alt="Logo" />
-            <span>TechLanding</span>
+            <span>Techchishooo!!</span>
           </motion.div>
           <nav className="nav">
             <motion.a 
